@@ -52,14 +52,14 @@ flutter:
         - asset: assets/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf
           style: italic
           weight: 600
-        - asset: assets/fonts/roboto/Montserrat-Medium.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Medium.ttf
           weight: 500
-        - asset: assets/fonts/roboto/Montserrat-MediumItalic.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-MediumItalic.ttf
           style: italic
           weight: 500
-        - asset: assets/fonts/roboto/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Regular.ttf
           weight: 400
-        - asset: assets/fonts/roboto/Montserrat-Italic.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Italic.ttf
           weight: 400
           style: italic
         - asset: assets/fonts/Montserrat/Montserrat-Light.ttf
@@ -67,13 +67,13 @@ flutter:
         - asset: assets/fonts/Montserrat/Montserrat-LightItalic.ttf
           style: italic
           weight: 300
-        - asset: assets/fonts/roboto/Roboto-ExtraLight.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-ExtraLight.ttf
           weight: 200
-        - asset: assets/fonts/roboto/Roboto-ExtraLightItalic.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf
           style: italic
           weight: 200
-        - asset: assets/fonts/roboto/Roboto-Thin.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Thin.ttf
           weight: 100
-        - asset: assets/fonts/roboto/Roboto-ThinItalic.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-ThinItalic.ttf
           style: italic
           weight: 100
